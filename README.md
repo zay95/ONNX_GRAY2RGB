@@ -4,5 +4,4 @@
 
 利用移动端深度学习推理框架[TNN](https://github.com/Tencent/TNN)执行iphone端上的前向推理，效果图如下
 
-![iphone8 cpu](cpu.png)
-![iphone8 gpu](gpu.png)
+![iphone8 cpu](cpu.png) ![iphone8 gpu](gpu.png)
